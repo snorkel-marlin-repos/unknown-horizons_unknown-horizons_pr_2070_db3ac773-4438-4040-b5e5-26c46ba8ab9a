@@ -1,0 +1,737 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-03-31 21:42+0100\n"
+"PO-Revision-Date: 2012-04-01 18:39+0200\n"
+"Last-Translator: Sergio <juarrox@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.1.5\n"
+
+msgid "build"
+msgstr "construir"
+
+msgid "game"
+msgstr "juego / partida"
+
+msgid "building"
+msgstr "edificio"
+
+msgid "settlement"
+msgstr "asentamiento"
+
+msgid "farm"
+msgstr "granja"
+
+msgid "ship"
+msgstr "navío"
+
+msgid "tent"
+msgstr "tienda"
+
+msgid "warehouse"
+msgstr "lonja"
+
+msgid "resource"
+msgstr "recurso"
+
+msgid "produce"
+msgstr "producir / fabricar"
+
+msgid "field"
+msgstr "campo"
+
+msgid "map"
+msgstr "mapa"
+
+msgid "trade"
+msgstr "comerciar"
+
+msgid "inhabitants"
+msgstr "habitantes"
+
+msgid "buy"
+msgstr "comprar"
+
+msgid "overview"
+msgstr "información general"
+
+msgid "click"
+msgstr "hacer clic"
+
+msgid "lumberjack"
+msgstr "leñador"
+
+msgid "resident"
+msgstr "residente"
+
+msgid "main square"
+msgstr "plaza principal"
+
+msgid "sailors"
+msgstr "marineros"
+
+msgid "food"
+msgstr "alimento"
+
+msgid "increment"
+msgstr "incremento"
+
+msgid "production"
+msgstr "producción"
+
+msgid "select"
+msgstr "escoger"
+
+msgid "sell"
+msgstr "vender"
+
+msgid "setting"
+msgstr "ajuste"
+
+msgid "storage"
+msgstr "almacén"
+
+msgid "tab"
+msgstr "pestaña"
+
+msgid "upgrade"
+msgstr "mejora"
+
+msgid "your inhabitants"
+msgstr "tus habitantes"
+
+msgid "close"
+msgstr "cerrar"
+
+msgid "companies"
+msgstr "negocios"
+
+msgid "island"
+msgstr "isla"
+
+msgid "time"
+msgstr "tiempo"
+
+msgid "unit"
+msgstr "unidad"
+
+msgid "balance"
+msgstr "saldo"
+
+msgid "coast"
+msgstr "costa"
+
+msgid "menu"
+msgstr "menú"
+
+msgid "slot"
+msgstr "casilla"
+
+msgid "start"
+msgstr "inicio / comenzar"
+
+msgid "stock"
+msgstr "almacén"
+
+msgid "trail"
+msgstr "camino"
+
+msgid "Unknown Horizons"
+msgstr "Horizontes Desconocidos"
+
+msgid "wool"
+msgstr "lana"
+
+msgid "boards"
+msgstr "tablones"
+
+msgid "collector"
+msgstr "transportista"
+
+msgid "connection"
+msgstr "conexión"
+
+msgid "fire"
+msgstr "fuego"
+
+msgid "change"
+msgstr "cambiar"
+
+msgid "connect"
+msgstr "conectar"
+
+msgid "cost"
+msgstr "coste"
+
+msgid "house"
+msgstr "casa"
+
+msgid "log"
+msgstr "bitácora"
+
+msgid "road"
+msgstr "camino"
+
+msgid "save"
+msgstr "guardar"
+
+msgid "built"
+msgstr "construido"
+
+msgid "pasture"
+msgstr "prado / pastos"
+
+msgid "reach"
+msgstr "llegar"
+
+msgid "tree"
+msgstr "árbol"
+
+msgid "your"
+msgstr "tus"
+
+msgid "your settlement"
+msgstr "tu asentamiento"
+
+msgid "add"
+msgstr "añadir"
+
+msgid "check"
+msgstr "comprobar"
+
+msgid "choose"
+msgstr "escoger"
+
+msgid "confectionery"
+msgstr "confitería"
+
+msgid "fisher"
+msgstr "pescador"
+
+msgid "free trader"
+msgstr "comerciante libre"
+
+msgid "happiness"
+msgstr "felicidad"
+
+msgid "in stock"
+msgstr "en almacén"
+
+msgid "money"
+msgstr "dinero"
+
+msgid "pavilion"
+msgstr "pabellón"
+
+msgid "running costs"
+msgstr "costos de operación"
+
+msgid "sugar"
+msgstr "azúcar"
+
+msgid "taxes"
+msgstr "impuestos"
+
+msgid "tax"
+msgstr "impuesto"
+
+msgid "tools"
+msgstr "herramientas"
+
+msgid "button"
+msgstr "botón"
+
+msgid "continue"
+msgstr "continuar"
+
+msgid "faith"
+msgstr "fe"
+
+msgid "help"
+msgstr "ayuda"
+
+msgid "left"
+msgstr "izquierda"
+
+msgid "level"
+msgstr "nivel"
+
+msgid "mode"
+msgstr "modo"
+
+msgid "move"
+msgstr "mover"
+
+msgid "pioneers"
+msgstr "pioneros"
+
+msgid "citizens"
+msgstr "ciudadanos"
+
+msgid "merchants"
+msgstr "mercantes"
+
+msgid "aristocrats"
+msgstr "aristócratas"
+
+msgid "potato"
+msgstr "patata"
+
+msgid "settler"
+msgstr "colonos"
+
+msgid "speed"
+msgstr "velocidad"
+
+msgid "stop"
+msgstr "cancelar"
+
+msgid "storage tent"
+msgstr "tienda almacén"
+
+msgid "wait"
+msgstr "esperar"
+
+msgid "access"
+msgstr "acceso"
+
+msgid "account"
+msgstr "cuenta"
+
+msgid "amount"
+msgstr "cantidad"
+
+msgid "build menu"
+msgstr "menú de construcción"
+
+msgid "cloth"
+msgstr "tejido"
+
+msgid "construction"
+msgstr "construcción"
+
+msgid "decrease"
+msgstr "disminuir / reducir"
+
+msgid "description"
+msgstr "descripción"
+
+msgid "fish"
+msgstr "peces"
+
+msgid "increase"
+msgstr "aumentar"
+
+msgid "lamb"
+msgstr "cordero"
+
+msgid "leave"
+msgstr "dejar"
+
+msgid "liquor"
+msgstr "licor"
+
+msgid "location"
+msgstr "localización"
+
+msgid "offer"
+msgstr "oferta"
+
+msgid "potatoes"
+msgstr "patatas"
+
+msgid "range"
+msgstr "alcance"
+
+msgid "reached"
+msgstr "llegado"
+
+msgid "run"
+msgstr "operar / correr"
+
+msgid "slider"
+msgstr "deslizador"
+
+msgid "solution"
+msgstr "solución"
+
+msgid "space"
+msgstr "espacio"
+
+msgid "target"
+msgstr "objetivo"
+
+msgid "team"
+msgstr "equipo"
+
+msgid "total"
+msgstr "total"
+
+msgid "unable"
+msgstr "incapaz"
+
+msgid "active"
+msgstr "activo"
+
+msgid "afford"
+msgstr "permitirse"
+
+msgid "animals"
+msgstr "animales"
+
+msgid "Captain's log"
+msgstr "Diario de a bordo del Capitán"
+
+msgid "construct"
+msgstr "construir"
+
+msgid "consume"
+msgstr "consumir"
+
+msgid "enabled"
+msgstr "activado"
+
+msgid "entries"
+msgstr "entradas"
+
+msgid "feature"
+msgstr "característica"
+
+msgid "forest"
+msgstr "bosque"
+
+msgid "grows"
+msgstr "crecimientos"
+
+msgid "hold"
+msgstr "parar / interrumpir"
+
+msgid "idle"
+msgstr "parado"
+
+msgid "income"
+msgstr "ingresos"
+
+msgid "information"
+msgstr "información"
+
+msgid "key"
+msgstr "tecla"
+
+msgid "lamb wool"
+msgstr "lana de oveja"
+
+msgid "overview tab"
+msgstr "pestaña de información"
+
+msgid "minimap"
+msgstr "minimapa"
+
+msgid "issues"
+msgstr "problemas"
+
+msgid "plant"
+msgstr "fábrica"
+
+msgid "play"
+msgstr "partida"
+
+msgid "playing"
+msgstr "jugar"
+
+msgid "price"
+msgstr "precio"
+
+msgid "read"
+msgstr "leer"
+
+msgid "return"
+msgstr "regreso"
+
+msgid "sale"
+msgstr "venta"
+
+msgid "screen"
+msgstr "pantalla"
+
+msgid "sound"
+msgstr "sonido"
+
+msgid "special"
+msgstr "especial"
+
+msgid "store"
+msgstr "comercio"
+
+msgid "tear"
+msgstr "infringir"
+
+msgid "from time to time"
+msgstr "de vez en cuando"
+
+msgid "trading"
+msgstr "comercio"
+
+msgid "village"
+msgstr "pueblo / villa"
+
+msgid "visit"
+msgstr "visitar"
+
+msgid "world"
+msgstr "mundo"
+
+msgid "yield"
+msgstr "rendimiento"
+
+msgid "your ship"
+msgstr "tu navío"
+
+msgid "back"
+msgstr "atrás"
+
+msgid "build settlement"
+msgstr "construir asentamiento"
+
+msgid "load"
+msgstr "cargar"
+
+msgid "unload"
+msgstr "descargar"
+
+msgid "command"
+msgstr "comando"
+
+msgid "completed"
+msgstr "completado"
+
+msgid "condition"
+msgstr "condición"
+
+msgid "contact"
+msgstr "contacto"
+
+msgid "empty"
+msgstr "vacío"
+
+msgid "ensure"
+msgstr "asegurar"
+
+msgid "fulfill"
+msgstr "cumplir / realizar"
+
+msgid "graphics"
+msgstr "gráficos"
+
+msgid "harvest"
+msgstr "cosecha"
+
+msgid "hunts"
+msgstr "caza"
+
+msgid "multiple"
+msgstr "múltiples"
+
+msgid "potato field"
+msgstr "campo de patatas"
+
+msgid "school"
+msgstr "escuela"
+
+msgid "seed"
+msgstr "semilla"
+
+msgid "service"
+msgstr "servicio"
+
+msgid "sheep"
+msgstr "oveja"
+
+msgid "signal fire"
+msgstr "señal de fuego"
+
+msgid "statistics"
+msgstr "estadísticas"
+
+msgid "clay"
+msgstr "arcilla"
+
+msgid "iron"
+msgstr "hierro"
+
+msgid "ore"
+msgstr "mineral"
+
+msgid "tobacco"
+msgstr "tabaco"
+
+msgid "charcoal"
+msgstr "carbón"
+
+msgid "sugar field"
+msgstr "campo de caña de azúcar"
+
+msgid "temporarily"
+msgstr "temporalmente"
+
+msgid "values"
+msgstr "valores"
+
+#~ msgid "branch office"
+#~ msgstr "sucursal"
+
+#~ msgid "main"
+#~ msgstr "principal"
+
+#~ msgid "unknown"
+#~ msgstr "desconocido"
+
+#~ msgid "free"
+#~ msgstr "libre"
+
+#~ msgid "trader"
+#~ msgstr "comerciante"
+
+#~ msgid "version"
+#~ msgstr "versión"
+
+#~ msgid "signal"
+#~ msgstr "señal"
+
+#~ msgid "found"
+#~ msgstr "encontrado"
+
+#~ msgid "raw"
+#~ msgstr "crudo"
+
+#~ msgid "running"
+#~ msgstr "activo / correr"
+
+#~ msgid "inventory"
+#~ msgstr "inventario"
+
+#~ msgid "moved"
+#~ msgstr "movido"
+
+#~ msgid "produced"
+#~ msgstr "producido / fabricado"
+
+#~ msgid "hunter"
+#~ msgstr "cazador"
+
+#~ msgid "market"
+#~ msgstr "mercado"
+
+#~ msgid "partner"
+#~ msgstr "compañero / socio"
+
+#~ msgid "sailor"
+#~ msgstr "marinero"
+
+#~ msgid "pioneer"
+#~ msgstr "pioneros"
+
+#~ msgid "citizen"
+#~ msgstr "ciudadanos"
+
+#~ msgid "merchant"
+#~ msgstr "mercante"
+
+#~ msgid "aristocrat"
+#~ msgstr "aristócrata"
+
+#~ msgid "refresh"
+#~ msgstr "actualizar"
+
+#~ msgid "residents"
+#~ msgstr "residentes"
+
+#~ msgid "output"
+#~ msgstr "resultado"
+
+#~ msgid "weaver"
+#~ msgstr "tejedor"
+
+#~ msgid "animal"
+#~ msgstr "animal"
+
+#~ msgid "fisherman"
+#~ msgstr "pescador"
+
+#~ msgid "forum"
+#~ msgstr "foro"
+
+#~ msgid "grow"
+#~ msgstr "crecer / cultivar"
+
+#~ msgid "hunt"
+#~ msgstr "cazar"
+
+#~ msgid "load/unload"
+#~ msgstr "cargar/descargar"
+
+#~ msgid "ship inventory"
+#~ msgstr "inventario de la nave"
+
+#~ msgid "starting"
+#~ msgstr "iniciando"
+
+#~ msgid "trade partner"
+#~ msgstr "socio comercial"
+
+#~ msgid "yields"
+#~ msgstr "genera"
+
+#~ msgid "green"
+#~ msgstr "verde"
+
+#~ msgid "red"
+#~ msgstr "rojo"
+
+#~ msgid "no"
+#~ msgstr "no"
+
+#~ msgid "dialogue"
+#~ msgstr "dialogo"
+
+#~ msgid "ruin"
+#~ msgstr "ruina"
+
+#~ msgid "salt ponds"
+#~ msgstr "lagunas de agua salada"
+
+#~ msgid "cattle"
+#~ msgstr "ganado"
+
+#~ msgid "pig"
+#~ msgstr "cerdo"
+
+#~ msgid "herbs"
+#~ msgstr "hierbas"
+
+#~ msgid "herbary"
+#~ msgstr "herbario"
+
+#~ msgid "butchery"
+#~ msgstr "carnicería"
+
+#~ msgid "doctor"
+#~ msgstr "doctor"
+
+#~ msgid "education"
+#~ msgstr "educación"
+
+#~ msgid "market place"
+#~ msgstr "centro del pueblo"
+
+#~ msgid "SHIFT"
+#~ msgstr "MAYUS"
+
+#~ msgid "IRC"
+#~ msgstr "IRC"

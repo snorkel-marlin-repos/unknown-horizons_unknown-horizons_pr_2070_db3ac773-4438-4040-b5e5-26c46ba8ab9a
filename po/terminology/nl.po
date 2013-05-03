@@ -1,0 +1,741 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-03-31 21:42+0100\n"
+"PO-Revision-Date: 2012-11-03 12:16+0000\n"
+"Last-Translator: joenit <jeroenjr89@hotmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.2.0-alpha1a\n"
+"X-POOTLE-MTIME: 1351944989.0\n"
+
+msgid "build"
+msgstr "bouwen"
+
+msgid "game"
+msgstr "spel"
+
+msgid "building"
+msgstr "gebouw"
+
+msgid "settlement"
+msgstr "kolonie"
+
+msgid "farm"
+msgstr "boerderij"
+
+msgid "ship"
+msgstr "schip"
+
+msgid "tent"
+msgstr "tent"
+
+msgid "warehouse"
+msgstr "pakhuis"
+
+msgid "resource"
+msgstr "grondstof"
+
+msgid "produce"
+msgstr "produceren"
+
+msgid "field"
+msgstr "veld"
+
+msgid "map"
+msgstr "kaart"
+
+msgid "trade"
+msgstr "handelen"
+
+msgid "inhabitants"
+msgstr "inwoners"
+
+msgid "buy"
+msgstr "kopen"
+
+msgid "overview"
+msgstr "overzicht"
+
+msgid "click"
+msgstr "klik"
+
+msgid "lumberjack"
+msgstr "houthakker"
+
+msgid "resident"
+msgstr "bewoner"
+
+msgid "main square"
+msgstr "marktplaats"
+
+msgid "sailors"
+msgstr "zeeman"
+
+msgid "food"
+msgstr "voedsel"
+
+msgid "increment"
+msgstr "vermeerderen"
+
+msgid "production"
+msgstr "productie"
+
+msgid "select"
+msgstr "selecteren"
+
+msgid "sell"
+msgstr "verkopen"
+
+msgid "setting"
+msgstr "koloniseren"
+
+msgid "storage"
+msgstr "opslag"
+
+msgid "tab"
+msgstr "tab"
+
+msgid "upgrade"
+msgstr "verbeteren"
+
+msgid "your inhabitants"
+msgstr "Uw inwoners"
+
+msgid "close"
+msgstr "sluiten"
+
+msgid "companies"
+msgstr "bedrijven"
+
+msgid "island"
+msgstr "eiland"
+
+msgid "time"
+msgstr "tijd"
+
+msgid "unit"
+msgstr "eenheid"
+
+msgid "balance"
+msgstr "balans"
+
+msgid "coast"
+msgstr "kust"
+
+msgid "menu"
+msgstr "menu"
+
+msgid "slot"
+msgstr "slot"
+
+msgid "start"
+msgstr "start"
+
+msgid "stock"
+msgstr "voorraad"
+
+msgid "trail"
+msgstr "pad"
+
+msgid "Unknown Horizons"
+msgstr "Unknown Horizons"
+
+msgid "wool"
+msgstr "wol"
+
+msgid "boards"
+msgstr "planken"
+
+msgid "collector"
+msgstr "verzamelaar"
+
+msgid "connection"
+msgstr "verbinding"
+
+msgid "fire"
+msgstr "vuur"
+
+msgid "change"
+msgstr "veranderen"
+
+msgid "connect"
+msgstr "verbinden"
+
+msgid "cost"
+msgstr "kosten"
+
+msgid "house"
+msgstr "huis"
+
+msgid "log"
+msgstr "blok hout"
+
+msgid "road"
+msgstr "weg"
+
+msgid "save"
+msgstr "opslaan"
+
+msgid "built"
+msgstr "gebouwd"
+
+msgid "pasture"
+msgstr "weide"
+
+msgid "reach"
+msgstr "bereik"
+
+msgid "tree"
+msgstr "boom"
+
+msgid "your"
+msgstr "uw"
+
+msgid "your settlement"
+msgstr "uw kolonie"
+
+msgid "add"
+msgstr "toevoegen"
+
+msgid "check"
+msgstr "controle"
+
+msgid "choose"
+msgstr "kiezen"
+
+msgid "confectionery"
+msgstr "banketbakkerij"
+
+msgid "fisher"
+msgstr "visser"
+
+msgid "free trader"
+msgstr "vrije handelaar"
+
+msgid "happiness"
+msgstr "tevredenheid"
+
+msgid "in stock"
+msgstr "op voorraad"
+
+msgid "money"
+msgstr "geld"
+
+msgid "pavilion"
+msgstr "paviljoen"
+
+msgid "running costs"
+msgstr "operationele kosten"
+
+msgid "sugar"
+msgstr "suiker"
+
+msgid "taxes"
+msgstr "belastingen"
+
+msgid "tax"
+msgstr "belasting"
+
+msgid "tools"
+msgstr "gereedschap"
+
+msgid "button"
+msgstr "knop"
+
+msgid "continue"
+msgstr "verdergaan"
+
+msgid "faith"
+msgstr "geloof"
+
+msgid "help"
+msgstr "hulp"
+
+msgid "left"
+msgstr "links"
+
+msgid "level"
+msgstr "niveau"
+
+msgid "mode"
+msgstr "modus"
+
+msgid "move"
+msgstr "verplaatsen"
+
+msgid "pioneers"
+msgstr "pioniers"
+
+msgid "citizens"
+msgstr "burgers"
+
+msgid "merchants"
+msgstr "kooplieden"
+
+msgid "aristocrats"
+msgstr "aristocraat"
+
+msgid "potato"
+msgstr "aardappel"
+
+msgid "settler"
+msgstr "kolonist"
+
+msgid "speed"
+msgstr "snelheid"
+
+msgid "stop"
+msgstr "stop"
+
+msgid "storage tent"
+msgstr "opslag tent"
+
+msgid "wait"
+msgstr "wacht"
+
+msgid "access"
+msgstr "toegang"
+
+msgid "account"
+msgstr "account"
+
+msgid "amount"
+msgstr "aantal"
+
+msgid "build menu"
+msgstr "bouw menu"
+
+msgid "cloth"
+msgstr "kleren"
+
+msgid "construction"
+msgstr "bouwen"
+
+msgid "decrease"
+msgstr "verminderen"
+
+msgid "description"
+msgstr "beschrijving"
+
+msgid "fish"
+msgstr "vis"
+
+msgid "increase"
+msgstr "vermeerderen"
+
+msgid "lamb"
+msgstr "lam"
+
+msgid "leave"
+msgstr "verlaten"
+
+msgid "liquor"
+msgstr "drank"
+
+msgid "location"
+msgstr "locatie"
+
+msgid "offer"
+msgstr "aanbieden"
+
+msgid "potatoes"
+msgstr "aardappels"
+
+msgid "range"
+msgstr "bereik"
+
+msgid "reached"
+msgstr "gehaald"
+
+msgid "run"
+msgstr "rennen"
+
+msgid "slider"
+msgstr "schuifbalk"
+
+msgid "solution"
+msgstr "oplossing"
+
+msgid "space"
+msgstr "ruimte"
+
+msgid "target"
+msgstr "doel"
+
+msgid "team"
+msgstr "team"
+
+msgid "total"
+msgstr "totaal"
+
+msgid "unable"
+msgstr "niet beschikbaar"
+
+msgid "active"
+msgstr "actief"
+
+msgid "afford"
+msgstr "veroorloven"
+
+msgid "animals"
+msgstr "dieren"
+
+msgid "Captain's log"
+msgstr "Logboek"
+
+msgid "construct"
+msgstr "bouwen"
+
+msgid "consume"
+msgstr "consumeren"
+
+msgid "enabled"
+msgstr "beschikbaar"
+
+msgid "entries"
+msgstr "inzendingen"
+
+msgid "feature"
+msgstr "functie / kenmerk"
+
+msgid "forest"
+msgstr "bos"
+
+msgid "grows"
+msgstr "groeit"
+
+msgid "hold"
+msgstr "houden"
+
+msgid "idle"
+msgstr "Inactief"
+
+msgid "income"
+msgstr "inkomen"
+
+msgid "information"
+msgstr "informatie"
+
+msgid "key"
+msgstr "sleutel"
+
+msgid "lamb wool"
+msgstr "lam wol"
+
+msgid "overview tab"
+msgstr "overzicht tab"
+
+msgid "minimap"
+msgstr "minikaart"
+
+msgid "issues"
+msgstr "problemen"
+
+msgid "plant"
+msgstr "plant"
+
+msgid "play"
+msgstr "spelen"
+
+msgid "playing"
+msgstr "spelen"
+
+msgid "price"
+msgstr "prijs"
+
+msgid "read"
+msgstr "lees"
+
+msgid "return"
+msgstr "terugkeren"
+
+msgid "sale"
+msgstr "verkoop"
+
+msgid "screen"
+msgstr "scherm"
+
+msgid "sound"
+msgstr "geluid"
+
+msgid "special"
+msgstr "speciaal"
+
+msgid "store"
+msgstr "opslaan / winkel"
+
+msgid "tear"
+msgstr "traan"
+
+msgid "from time to time"
+msgstr "van tijd tot tijd"
+
+msgid "trading"
+msgstr "handelen"
+
+msgid "village"
+msgstr "dorp"
+
+msgid "visit"
+msgstr "bezoeken"
+
+msgid "world"
+msgstr "wereld"
+
+msgid "yield"
+msgstr "opbrengsten"
+
+msgid "your ship"
+msgstr "uw schip"
+
+msgid "back"
+msgstr "terug"
+
+msgid "build settlement"
+msgstr "bouw nederzetting"
+
+msgid "load"
+msgstr "laden"
+
+msgid "unload"
+msgstr "lossen"
+
+msgid "command"
+msgstr "commando"
+
+msgid "completed"
+msgstr "voltooid"
+
+msgid "condition"
+msgstr "vereiste"
+
+msgid "contact"
+msgstr "contact"
+
+msgid "empty"
+msgstr "leeg"
+
+msgid "ensure"
+msgstr "opbrengst"
+
+msgid "fulfill"
+msgstr "voldoen"
+
+msgid "graphics"
+msgstr "beeld"
+
+msgid "harvest"
+msgstr "oogsten"
+
+msgid "hunts"
+msgstr "jaagt"
+
+msgid "multiple"
+msgstr "meerdere"
+
+msgid "potato field"
+msgstr "aardappelveld"
+
+msgid "school"
+msgstr "school"
+
+msgid "seed"
+msgstr "zaad"
+
+msgid "service"
+msgstr "service"
+
+msgid "sheep"
+msgstr "schaap"
+
+msgid "signal fire"
+msgstr "signaalvuur"
+
+msgid "statistics"
+msgstr "statistieken"
+
+msgid "clay"
+msgstr "klei"
+
+msgid "iron"
+msgstr "ijzer"
+
+msgid "ore"
+msgstr "erts"
+
+msgid "tobacco"
+msgstr "tabak"
+
+msgid "charcoal"
+msgstr "houtskool"
+
+msgid "sugar field"
+msgstr "suiker veld"
+
+msgid "temporarily"
+msgstr "tijdelijk"
+
+msgid "values"
+msgstr "waarde"
+
+#~ msgid "branch office"
+#~ msgstr "hoofdkantoor"
+
+#~ msgid "main"
+#~ msgstr "begin"
+
+#~ msgid "unknown"
+#~ msgstr "onbekend"
+
+#~ msgid "free"
+#~ msgstr "vrije"
+
+#~ msgid "trader"
+#~ msgstr "handelaar"
+
+#~ msgid "version"
+#~ msgstr "versie"
+
+#~ msgid "signal"
+#~ msgstr "signaal"
+
+#~ msgid "found"
+#~ msgstr "gevonden"
+
+#~ msgid "raw"
+#~ msgstr "ruw"
+
+#~ msgid "running"
+#~ msgstr "in bedrijf"
+
+#~ msgid "inventory"
+#~ msgstr "inventaris"
+
+#~ msgid "moved"
+#~ msgstr "verplaatst"
+
+#~ msgid "produced"
+#~ msgstr "geproduceerd"
+
+#~ msgid "hunter"
+#~ msgstr "jager"
+
+#~ msgid "market"
+#~ msgstr "markt"
+
+#~ msgid "partner"
+#~ msgstr "partner"
+
+#~ msgid "sailor"
+#~ msgstr "zeeman"
+
+#~ msgid "pioneer"
+#~ msgstr "pionier"
+
+#~ msgid "citizen"
+#~ msgstr "stedeling"
+
+#~ msgid "merchant"
+#~ msgstr "koopman"
+
+#~ msgid "aristocrat"
+#~ msgstr "aristocraat"
+
+#~ msgid "refresh"
+#~ msgstr "verversen"
+
+#~ msgid "residents"
+#~ msgstr "woningen"
+
+#~ msgid "output"
+#~ msgstr "uitvoer"
+
+#~ msgid "weaver"
+#~ msgstr "wever"
+
+#~ msgid "animal"
+#~ msgstr "dier"
+
+#~ msgid "fisherman"
+#~ msgstr "visser"
+
+#~ msgid "forum"
+#~ msgstr "forum"
+
+#~ msgid "grow"
+#~ msgstr "groeien"
+
+#~ msgid "hunt"
+#~ msgstr "jacht"
+
+#~ msgid "load/unload"
+#~ msgstr "laden/uitladen"
+
+#~ msgid "ship inventory"
+#~ msgstr "scheepslading"
+
+#~ msgid "starting"
+#~ msgstr "startende"
+
+#~ msgid "trade partner"
+#~ msgstr "handels partner"
+
+#~ msgid "yields"
+#~ msgstr "opbrengsten"
+
+#~ msgid "green"
+#~ msgstr "groen"
+
+#~ msgid "red"
+#~ msgstr "rood"
+
+#~ msgid "no"
+#~ msgstr "nee"
+
+#~ msgid "dialogue"
+#~ msgstr "gesprek"
+
+#~ msgid "ruin"
+#~ msgstr "ruine"
+
+#~ msgid "salt ponds"
+#~ msgstr "zoutmeren"
+
+#~ msgid "cattle"
+#~ msgstr "vee"
+
+#~ msgid "pig"
+#~ msgstr "varken"
+
+#~ msgid "herbs"
+#~ msgstr "kruiden"
+
+#~ msgid "herbary"
+#~ msgstr "kruidentuin"
+
+#~ msgid "butchery"
+#~ msgstr "slagerij"
+
+#~ msgid "doctor"
+#~ msgstr "dokter"
+
+#~ msgid "education"
+#~ msgstr "onderwijs"
+
+#~ msgid "market place"
+#~ msgstr "marktplaats"
+
+#~ msgid "SHIFT"
+#~ msgstr "SHIFT"
+
+#~ msgid "IRC"
+#~ msgstr "IRC"
+
+#~ msgid "LEFT"
+#~ msgstr "LINKS"
